@@ -6,7 +6,7 @@
 get_ipython().magic('pylab inline')
 import pandas as pd
 import numpy as np
-
+#comments
 
 # In[6]:
 
